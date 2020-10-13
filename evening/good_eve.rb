@@ -11,4 +11,5 @@ else time >0
 end
 
 puts time
+puts "no more month status"
 
