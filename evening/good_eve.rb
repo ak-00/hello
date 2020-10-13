@@ -12,15 +12,3 @@ end
 
 puts time
 
-day = rand(0..31)
-
-if day >= 1
-  puts "begging of month"
-elsif day >= 15
-  puts "mid of month"
-elsif day >= 20
-  puts "end of month"
-else day <= 1
-  puts "invaild"
-end 
-puts day
