@@ -1,4 +1,4 @@
-time = 4
+time = 4 + rand(5..20)
 
 if time >= 22
   puts "good night!"
@@ -10,3 +10,4 @@ else time >0
   puts "Good morning!"
 end
 
+puts time
