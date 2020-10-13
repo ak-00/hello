@@ -12,4 +12,4 @@ end
 
 puts time
 puts "no more month status"
-
+puts "omg something wrong"
